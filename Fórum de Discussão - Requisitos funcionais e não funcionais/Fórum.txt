@@ -1,0 +1,4 @@
+Você viu que os requisitos de back-end são classificados em dois tipos: funcionais (RF) e não funcionais (RNF).
+
+Qual deles você considera que pode impactar negativamente a experiência de um usuário em um site ou aplicativo? Justifique sua resposta e cite exemplos.
+
